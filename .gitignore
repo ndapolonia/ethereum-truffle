@@ -1,0 +1,9 @@
+# Logs
+npm-debug.log*
+
+# Compiled binary 
+build/
+bin/
+
+# Dependency directories
+node_modules/
